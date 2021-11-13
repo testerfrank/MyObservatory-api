@@ -1,0 +1,11 @@
+[ {
+  "uid" : "78a499f3fc481089",
+  "name" : "test_forecast",
+  "time" : {
+    "start" : 1636815353728,
+    "stop" : 1636815353901,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

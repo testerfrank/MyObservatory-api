@@ -1,0 +1,72 @@
+{
+  "uid" : "78a499f3fc481089",
+  "name" : "test_forecast",
+  "fullName" : "test_case.test_forecast.TestForecast#test_forecast",
+  "historyId" : "f370182c011ee8eb53792d03655fb2b1",
+  "time" : {
+    "start" : 1636815353728,
+    "stop" : 1636815353901,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b53af9f30eb72d5c",
+      "name" : "log",
+      "source" : "b53af9f30eb72d5c.txt",
+      "type" : "text/plain",
+      "size" : 4260
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_forecast"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestForecast"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BFACBSV6"
+  }, {
+    "name" : "thread",
+    "value" : "9960-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_forecast"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78a499f3fc481089.json",
+  "parameterValues" : [ ]
+}

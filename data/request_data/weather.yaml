@@ -1,0 +1,4 @@
+9-days-forecast:
+  method: "get"
+  url: "${base_url}/locspc/android_data/fnd_uc.xml"
+
